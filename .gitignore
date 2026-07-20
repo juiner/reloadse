@@ -1,0 +1,5 @@
+.env*
+!.env.deploy.example
+FTP.txt
+_ref_botfala/
+.idea/
