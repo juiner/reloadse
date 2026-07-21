@@ -96,9 +96,7 @@ h2.title{font-family:var(--display);font-weight:700;letter-spacing:-.025em;
 header{position:fixed;top:0;left:0;right:0;z-index:100;transition:background .4s var(--ease),backdrop-filter .4s,border-color .4s,box-shadow .4s;border-bottom:1px solid transparent}
 header .bar{display:flex;align-items:center;justify-content:space-between;gap:20px;padding-block:16px}
 header.solid{background:rgba(255,255,255,.82);backdrop-filter:blur(14px) saturate(1.3);border-color:var(--line);box-shadow:0 10px 30px -22px rgba(0,57,95,.35)}
-.brand img{height:32px;width:auto}
-.brand .b-light{display:none}
-.brand .b-dark{display:block}
+.brand img{height:36px;width:auto}
 nav.main{display:flex;align-items:center;gap:28px}
 nav.main a{font-size:.9rem;font-weight:500;color:var(--ink-soft);position:relative;padding:5px 0;transition:color .25s}
 nav.main a::after{content:"";position:absolute;left:0;bottom:-2px;height:1.5px;width:0;background:var(--blue-500);transition:width .3s var(--ease)}
@@ -123,7 +121,7 @@ nav.main a:hover::after,nav.main a.active::after{width:100%}
   -webkit-mask-image:radial-gradient(90% 80% at 55% 35%,#000 30%,transparent 90%)}
 .hero-inner{position:relative;z-index:2;display:grid;grid-template-columns:1.1fr .9fr;gap:52px;align-items:center;width:100%}
 .hero h1{font-family:var(--display);font-weight:700;letter-spacing:-.032em;
-  font-size:clamp(2.4rem,5.6vw,4.3rem);line-height:1.02;margin:4px 0 0;color:var(--ink);text-wrap:balance}
+  font-size:clamp(2.2rem,5vw,3.8rem);line-height:1.04;margin:4px 0 0;color:var(--ink);text-wrap:balance}
 .hero h1 .accent{background:linear-gradient(120deg,var(--blue-600),var(--blue-400));-webkit-background-clip:text;background-clip:text;color:transparent}
 .hero .sub{margin-top:24px;font-size:clamp(1.05rem,1.5vw,1.24rem);line-height:1.6;color:var(--ink-soft);max-width:46ch}
 .hero .cta-row{margin-top:34px;display:flex;flex-wrap:wrap;gap:13px}
@@ -243,6 +241,8 @@ nav.main a:hover::after,nav.main a.active::after{width:100%}
 .product-card .dots{opacity:.5}
 .product-card .lbl{font-family:var(--mono);font-size:12px;letter-spacing:.14em;text-transform:uppercase;color:var(--green-400);font-weight:500;position:relative}
 .product-card h3{font-family:var(--display);font-size:clamp(1.7rem,3vw,2.4rem);font-weight:700;color:#fff;margin:10px 0 12px;position:relative;letter-spacing:-.02em}
+.product-card .product-logo{position:relative;display:block;width:auto;height:auto;
+  max-width:min(170px,60%);max-height:40px;margin:12px 0 14px}
 .product-card p{color:#bcd6ee;line-height:1.6;max-width:48ch;position:relative}
 .product-card .cta-w{position:relative;display:flex}
 

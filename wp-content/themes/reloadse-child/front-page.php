@@ -39,8 +39,7 @@ $rl_img = trailingslashit( get_stylesheet_directory_uri() ) . 'assets/img/';
 <header id="header">
   <div class="wrap bar">
     <a class="brand" href="#top" aria-label="Reloadse, início">
-      <img class="b-light" src="<?php echo esc_url( $rl_img . 'logo-branco.png' ); ?>" alt="Reloadse">
-      <img class="b-dark" src="<?php echo esc_url( $rl_img . 'logo-preto.png' ); ?>" alt="Reloadse">
+      <img src="<?php echo esc_url( $rl_img . 'logo-azul.png' ); ?>" alt="Reloadse">
     </a>
     <nav class="main" aria-label="Navegação principal">
       <a href="#manifesto">Manifesto</a>
@@ -191,7 +190,7 @@ $rl_img = trailingslashit( get_stylesheet_directory_uri() ) . 'assets/img/';
       <div class="glow2"></div><div class="dots"></div>
       <div style="position:relative">
         <span class="lbl">Nosso produto</span>
-        <h3>Fala AI</h3>
+        <img class="product-logo" src="<?php echo esc_url( $rl_img . 'fala-ai-branco.png' ); ?>" alt="Fala AI">
         <p>A plataforma que coloca o cartório atendendo 24 horas por dia pelo WhatsApp. É a Reloadse em produção, já resolvendo a maior parte das demandas sozinha.</p>
       </div>
       <div class="cta-w">
@@ -208,7 +207,7 @@ $rl_img = trailingslashit( get_stylesheet_directory_uri() ) . 'assets/img/';
     <div class="results-head">
       <div>
         <span class="eyebrow reveal"><span class="dot"></span>Resultados reais</span>
-        <h2 class="title reveal d1">Não é piloto.<br>É produção.</h2>
+        <h2 class="title reveal d1">Não é piloto.<br>É resultado.</h2>
       </div>
       <div class="exec-note reveal d2">
         <p class="big"><b>81%</b> confiam na IA. Só <b>27%</b> colhem resultado. A diferença não é a tecnologia. É a execução.</p>
