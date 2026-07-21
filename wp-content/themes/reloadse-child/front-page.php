@@ -141,7 +141,7 @@ $rl_img = trailingslashit( get_stylesheet_directory_uri() ) . 'assets/img/';
         <div class="orgcol">
           <div class="node legacy">
             <div class="nic"><svg viewBox="0 0 24 24" fill="none" stroke="url(#ig)" stroke-width="1.7"><path d="M3 21h18M5 21V7l7-4 7 4v14M9 21v-5h6v5"/></svg></div>
-            <div><div class="nt">P21 Sistemas</div><div class="nd">A base · +20 anos no setor</div></div>
+              <div><div class="nt"><span style="color:#8cbf43">P21 Sistemas</span></div><div class="nd">A base · +20 anos no setor</div></div>
           </div>
           <div class="connector"><span class="line"></span></div>
           <div class="node reloadse">
