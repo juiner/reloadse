@@ -79,7 +79,7 @@ $rl_img = trailingslashit( get_stylesheet_directory_uri() ) . 'assets/img/';
         <a href="#o-que-fazemos" class="btn btn--ghost">Conheça o Fala AI <span class="arw">→</span></a>
       </div>
       <div class="proofline reveal d4">
-        <span><b>+10</b> cartórios ativos</span><span class="sep"></span>
+        <span>cartórios ativos</span><span class="sep"></span>
         <span>múltiplos estados</span><span class="sep"></span>
         <span>resultados reais</span>
       </div>
@@ -89,9 +89,9 @@ $rl_img = trailingslashit( get_stylesheet_directory_uri() ) . 'assets/img/';
         <div class="ring"></div>
         <div class="ring dashed"></div>
         <div class="core"><img src="<?php echo esc_url( $rl_img . 'simbolo-azul.png' ); ?>" alt="Símbolo Reloadse"></div>
-        <div class="tick t1">IA · WhatsApp 24/7</div>
-        <div class="tick t2"><b>63%</b> resolvido por IA</div>
-        <div class="tick t3">protesto · notas · registro</div>
+        <div class="tick t1"><b>Inteligência</b> artificial</div>
+        <div class="tick t2"><b>Transformação</b> digital</div>
+        <div class="tick t3"><b>Cartórios</b> de protesto</div>
       </div>
     </div>
   </div>
@@ -126,7 +126,7 @@ $rl_img = trailingslashit( get_stylesheet_directory_uri() ) . 'assets/img/';
   <div class="wrap qs-grid">
     <div class="qs-intro">
       <span class="eyebrow reveal"><span class="dot"></span>Quem somos</span>
-      <h2 class="title reveal d1">A frente de IA do Grupo P21.</h2>
+      <h2 class="title reveal d1">A frente de IA do Grupo <span style="color:#8cbf43">P21</span>.</h2>
       <p class="reveal d2">Nascemos de duas décadas dentro do cartório. É por isso que nossa IA não apenas responde. Ela resolve.</p>
       <div class="pill-row reveal d3">
         <span class="pill">Setor extrajudicial</span>
@@ -141,7 +141,7 @@ $rl_img = trailingslashit( get_stylesheet_directory_uri() ) . 'assets/img/';
         <div class="orgcol">
           <div class="node legacy">
             <div class="nic"><svg viewBox="0 0 24 24" fill="none" stroke="url(#ig)" stroke-width="1.7"><path d="M3 21h18M5 21V7l7-4 7 4v14M9 21v-5h6v5"/></svg></div>
-            <div><div class="nt">+20 anos no setor extrajudicial</div><div class="nd">A base · fé pública</div></div>
+            <div><div class="nt">P21 Sistemas</div><div class="nd">A base · +20 anos no setor</div></div>
           </div>
           <div class="connector"><span class="line"></span></div>
           <div class="node reloadse">
