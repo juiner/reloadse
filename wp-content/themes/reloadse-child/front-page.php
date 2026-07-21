@@ -71,9 +71,9 @@ $rl_img = trailingslashit( get_stylesheet_directory_uri() ) . 'assets/img/';
   <div class="grid-bg"></div>
   <div class="wrap hero-inner">
     <div class="hero-copy">
-      <span class="eyebrow reveal"><span class="dot"></span>Uma empresa do Grupo P21</span>
+      <span class="eyebrow reveal"><span class="dot"></span>Uma empresa do Grupo P21 Sistemas</span>
       <h1 class="reveal d1">Recarregando uma das <span class="accent">instituições</span> mais tradicionais do Brasil.</h1>
-      <p class="sub reveal d2">Inteligência artificial de verdade para os cartórios, feita por quem vive o setor há mais de 20 anos.</p>
+      <p class="sub reveal d2">Inteligência artificial para os cartórios, feita por quem vive o setor há mais de 20 anos.</p>
       <div class="cta-row reveal d3">
         <a href="#contato" class="btn">Falar com a empresa</a>
         <a href="#o-que-fazemos" class="btn btn--ghost">Conheça o Fala AI <span class="arw">→</span></a>
@@ -136,12 +136,12 @@ $rl_img = trailingslashit( get_stylesheet_directory_uri() ) . 'assets/img/';
     </div>
     <div class="diagram reveal d2" role="img" aria-label="A Reloadse é a frente de inteligência artificial dentro do Grupo P21, apoiada em mais de 20 anos no setor extrajudicial, e entrega o produto Fala AI.">
       <div class="p21">
-        <div class="p21-badge">Grupo P21 · <span>Unerverso</span></div>
+        <div class="p21-badge">Grupo P21 · <span>Unerverso21</span></div>
         <div class="p21-sub">O universo de soluções do grupo</div>
         <div class="orgcol">
           <div class="node legacy">
             <div class="nic"><svg viewBox="0 0 24 24" fill="none" stroke="url(#ig)" stroke-width="1.7"><path d="M3 21h18M5 21V7l7-4 7 4v14M9 21v-5h6v5"/></svg></div>
-              <div><div class="nt"><span style="color:#8cbf43">P21 Sistemas</span></div><div class="nd">A base · +20 anos no setor</div></div>
+              <div><div class="nt"><span style="color:#8cbf43">P21 Sistemas</span></div><div class="nd">+20 anos no setor</div></div>
           </div>
           <div class="connector"><span class="line"></span></div>
           <div class="node reloadse">
@@ -149,12 +149,6 @@ $rl_img = trailingslashit( get_stylesheet_directory_uri() ) . 'assets/img/';
             <div><div class="nt">Reloadse</div><div class="nd">Inteligência artificial</div></div>
           </div>
         </div>
-      </div>
-      <div class="connector"><span class="cap">entrega</span><span class="line"></span></div>
-      <div class="product-out">
-        <div class="nic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7"><path d="M21 11.5a8.4 8.4 0 0 1-8.5 8.5 8.4 8.4 0 0 1-3.8-.9L3 21l1.9-5.7a8.4 8.4 0 0 1-.9-3.8A8.5 8.5 0 0 1 12.5 3 8.5 8.5 0 0 1 21 11.5z"/></svg></div>
-        <div><div class="nt">Fala AI</div><div class="nd">O produto em produção</div></div>
-        <span class="tag">produto</span>
       </div>
     </div>
   </div>
@@ -312,7 +306,7 @@ $rl_img = trailingslashit( get_stylesheet_directory_uri() ) . 'assets/img/';
         <ul>
           <li><a href="https://botfala.ai/cartorio-solucao" target="_blank" rel="noopener">Produto Fala AI ↗</a></li>
           <li><a href="#contato">Falar com a empresa</a></li>
-          <li><span style="color:#4f7296">Uma empresa do Grupo P21</span></li>
+          <li><span style="color:#4f7296">Uma empresa do Grupo P21 Sistemas</span></li>
         </ul>
       </div>
     </div>
