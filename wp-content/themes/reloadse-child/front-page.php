@@ -22,7 +22,7 @@ $rl_img = trailingslashit( get_stylesheet_directory_uri() ) . 'assets/img/';
 <head>
 	<meta charset="<?php bloginfo( 'charset' ); ?>">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<meta name="description" content="Reloadse — inteligência artificial para instituições tradicionais. Uma empresa do Grupo P21, levando IA que resolve para os cartórios do Brasil.">
+	<meta name="description" content="Reloadse: inteligência artificial para instituições tradicionais. Uma empresa do Grupo P21, levando IA que resolve para os cartórios do Brasil.">
 	<?php wp_head(); ?>
 </head>
 <body <?php body_class( 'reloadse-home' ); ?>>
@@ -38,7 +38,7 @@ $rl_img = trailingslashit( get_stylesheet_directory_uri() ) . 'assets/img/';
 
 <header id="header">
   <div class="wrap bar">
-    <a class="brand" href="#top" aria-label="Reloadse — início">
+    <a class="brand" href="#top" aria-label="Reloadse, início">
       <img class="b-light" src="<?php echo esc_url( $rl_img . 'logo-branco.png' ); ?>" alt="Reloadse">
       <img class="b-dark" src="<?php echo esc_url( $rl_img . 'logo-preto.png' ); ?>" alt="Reloadse">
     </a>
@@ -72,8 +72,8 @@ $rl_img = trailingslashit( get_stylesheet_directory_uri() ) . 'assets/img/';
   <div class="wrap hero-inner">
     <div class="hero-copy">
       <span class="eyebrow reveal"><span class="dot"></span>Uma empresa do Grupo P21</span>
-      <h1 class="reveal d1">Recarregando uma das <span class="accent">instituições</span> mais antigas do Brasil.</h1>
-      <p class="sub reveal d2">Inteligência artificial de verdade para os cartórios — feita por quem vive o setor há mais de 20 anos.</p>
+      <h1 class="reveal d1">Recarregando uma das <span class="accent">instituições</span> mais tradicionais do Brasil.</h1>
+      <p class="sub reveal d2">Inteligência artificial de verdade para os cartórios, feita por quem vive o setor há mais de 20 anos.</p>
       <div class="cta-row reveal d3">
         <a href="#contato" class="btn">Falar com a empresa</a>
         <a href="#o-que-fazemos" class="btn btn--ghost">Conheça o Fala AI <span class="arw">→</span></a>
@@ -104,7 +104,7 @@ $rl_img = trailingslashit( get_stylesheet_directory_uri() ) . 'assets/img/';
     <div class="manifesto">
       <span class="eyebrow reveal"><span class="dot"></span>Manifesto</span>
       <p class="manifesto-statement reveal d1">Tradição não é o oposto de inovação. É a <em>base</em> dela.</p>
-      <p class="lead reveal d2">Levamos inteligência artificial às instituições que sustentam a fé pública do país — sem abrir mão do rigor de quem entende do assunto.</p>
+      <p class="lead reveal d2">Levamos inteligência artificial às instituições que sustentam a fé pública do país, sem abrir mão do rigor de quem entende do assunto.</p>
     </div>
     <div class="mv-grid">
       <div class="mv-card reveal d1">
@@ -127,7 +127,7 @@ $rl_img = trailingslashit( get_stylesheet_directory_uri() ) . 'assets/img/';
     <div class="qs-intro">
       <span class="eyebrow reveal"><span class="dot"></span>Quem somos</span>
       <h2 class="title reveal d1">A frente de IA do Grupo P21.</h2>
-      <p class="reveal d2">Nascemos de duas décadas dentro do cartório. É por isso que nossa IA não apenas responde — ela resolve.</p>
+      <p class="reveal d2">Nascemos de duas décadas dentro do cartório. É por isso que nossa IA não apenas responde. Ela resolve.</p>
       <div class="pill-row reveal d3">
         <span class="pill">Setor extrajudicial</span>
         <span class="pill">Especialistas em protesto</span>
@@ -167,7 +167,7 @@ $rl_img = trailingslashit( get_stylesheet_directory_uri() ) . 'assets/img/';
     <div class="sec-head">
       <span class="eyebrow reveal"><span class="dot"></span>O que fazemos</span>
       <h2 class="title reveal d1">IA que resolve, não só responde.</h2>
-      <p class="lead reveal d2">Tecnologia própria que transforma o atendimento repetitivo em resultado automático — com segurança jurídica e implantação em poucos dias.</p>
+      <p class="lead reveal d2">Tecnologia própria que transforma o atendimento repetitivo em resultado automático, com segurança jurídica e implantação em poucos dias.</p>
     </div>
 
     <div class="feat-grid">
@@ -198,7 +198,7 @@ $rl_img = trailingslashit( get_stylesheet_directory_uri() ) . 'assets/img/';
       <div style="position:relative">
         <span class="lbl">Nosso produto</span>
         <h3>Fala AI</h3>
-        <p>A plataforma que coloca o cartório atendendo 24 horas por dia pelo WhatsApp. É a Reloadse em produção — já resolvendo a maior parte das demandas sozinha.</p>
+        <p>A plataforma que coloca o cartório atendendo 24 horas por dia pelo WhatsApp. É a Reloadse em produção, já resolvendo a maior parte das demandas sozinha.</p>
       </div>
       <div class="cta-w">
         <a href="https://botfala.ai/cartorio-solucao" target="_blank" rel="noopener" class="btn">Conhecer o Fala AI <span class="arw">→</span></a>
@@ -217,7 +217,7 @@ $rl_img = trailingslashit( get_stylesheet_directory_uri() ) . 'assets/img/';
         <h2 class="title reveal d1">Não é piloto.<br>É produção.</h2>
       </div>
       <div class="exec-note reveal d2">
-        <p class="big"><b>81%</b> confiam na IA. Só <b>27%</b> colhem resultado. A diferença não é a tecnologia — é a execução.</p>
+        <p class="big"><b>81%</b> confiam na IA. Só <b>27%</b> colhem resultado. A diferença não é a tecnologia. É a execução.</p>
         <p class="src">Fonte: MIT Technology Review / WSI, 2025</p>
       </div>
     </div>
@@ -240,7 +240,7 @@ $rl_img = trailingslashit( get_stylesheet_directory_uri() ) . 'assets/img/';
     </div>
     <div class="diff-grid">
       <div class="diff reveal d1"><div class="ic"><svg viewBox="0 0 24 24" fill="none" stroke="url(#ig)" stroke-width="1.7"><path d="M12 2l2.4 5 5.6.8-4 4 1 5.5L12 19.8 6.9 22.3 8 16.8l-4-4 5.6-.8z"/></svg></div><h3>Especialistas em protesto</h3><p>Mais de uma década imersos no setor. A IA fala a língua do cartório porque nós falamos.</p></div>
-      <div class="diff reveal d2"><div class="ic"><svg viewBox="0 0 24 24" fill="none" stroke="url(#ig)" stroke-width="1.7"><path d="M13 2L4.5 13H11l-1 9 8.5-11H12z"/></svg></div><h3>IA que resolve</h3><p>Consulta e conclui o pagamento na conversa — não é um FAQ automatizado.</p></div>
+      <div class="diff reveal d2"><div class="ic"><svg viewBox="0 0 24 24" fill="none" stroke="url(#ig)" stroke-width="1.7"><path d="M13 2L4.5 13H11l-1 9 8.5-11H12z"/></svg></div><h3>IA que resolve</h3><p>Consulta e conclui o pagamento na conversa. Não é um FAQ automatizado.</p></div>
       <div class="diff reveal d3"><div class="ic"><svg viewBox="0 0 24 24" fill="none" stroke="url(#ig)" stroke-width="1.7"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/></svg></div><h3>Implantação em dias</h3><p>Acompanhada de ponta a ponta, sem exigir equipe de TI no cartório.</p></div>
       <div class="diff reveal d4"><div class="ic"><svg viewBox="0 0 24 24" fill="none" stroke="url(#ig)" stroke-width="1.7"><path d="M3 3v18h18"/><path d="M7 14l3-4 3 3 4-6"/></svg></div><h3>Resultados comprovados</h3><p>Meses de entrega real, documentados, em cartórios de vários estados.</p></div>
       <div class="diff reveal d5"><div class="ic"><svg viewBox="0 0 24 24" fill="none" stroke="url(#ig)" stroke-width="1.7"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg></div><h3>Segurança jurídica</h3><p>LGPD e Provimentos do CNJ como ponto de partida, não como detalhe.</p></div>
@@ -278,7 +278,7 @@ $rl_img = trailingslashit( get_stylesheet_directory_uri() ) . 'assets/img/';
       <div class="contact-info reveal d2">
         <div class="info-card">
           <div class="lbl">Onde estamos</div>
-          <p>Setor SCS, Quadra 02, Bloco C, Nº 22<br>Ed. Serra Dourada, Sala 609 — Parte C67<br>Brasília — DF · CEP 70.300-902</p>
+          <p>Setor SCS, Quadra 02, Bloco C, Nº 22<br>Ed. Serra Dourada, Sala 609, Parte C67<br>Brasília, DF · CEP 70.300-902</p>
         </div>
         <div class="info-card">
           <div class="lbl">O produto</div>
@@ -295,7 +295,7 @@ $rl_img = trailingslashit( get_stylesheet_directory_uri() ) . 'assets/img/';
     <div class="foot-grid">
       <div>
         <img class="wm" src="<?php echo esc_url( $rl_img . 'logo-branco.png' ); ?>" alt="Reloadse">
-        <p class="about">Inteligência artificial para instituições tradicionais. Transformamos processos em resultados — começando pelos cartórios do Brasil.</p>
+        <p class="about">Inteligência artificial para instituições tradicionais. Transformamos processos em resultados, começando pelos cartórios do Brasil.</p>
       </div>
       <div>
         <div class="fh">Navegação</div>
@@ -318,7 +318,7 @@ $rl_img = trailingslashit( get_stylesheet_directory_uri() ) . 'assets/img/';
     </div>
     <div class="foot-bottom">
       <span>© 2026 Reloadse · Transformação Digital</span>
-      <span>Brasília — DF · reloadse.com.br</span>
+      <span>Brasília, DF · reloadse.com.br</span>
     </div>
   </div>
 </footer>

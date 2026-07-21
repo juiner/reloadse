@@ -37,6 +37,6 @@
     if(!form.checkValidity()){form.reportValidity();return;}
     var g=function(id){return (document.getElementById(id)||{}).value||'';};
     var body='Nome: '+g('nome')+'%0D%0ACartório: '+g('org')+'%0D%0AE-mail: '+g('email')+'%0D%0AWhatsApp: '+g('tel')+'%0D%0A%0D%0A'+encodeURIComponent(g('msg'));
-    window.location.href='mailto:contato@reloadse.com.br?subject='+encodeURIComponent('Contato pelo site — '+g('nome'))+'&body='+body;
+    window.location.href='mailto:contato@reloadse.com.br?subject='+encodeURIComponent('Contato pelo site: '+g('nome'))+'&body='+body;
     document.getElementById('formOk').classList.add('show');});
 })();
